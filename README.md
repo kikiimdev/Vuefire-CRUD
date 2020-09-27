@@ -1,4 +1,6 @@
-# crud
+# Vuefire CRUD
+
+The simplest way to create CRUD + PDF Export using Vue.js, Firebase, Vuefire, Vuetify, jsPDF & jsPDF-autoTable.
 
 ## Project setup
 ```
